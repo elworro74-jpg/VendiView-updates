@@ -1,2 +1,2 @@
-1 = 1_cola.png
-3 = 3_fanta.png
+1 = 1.png
+3 = 3.png
